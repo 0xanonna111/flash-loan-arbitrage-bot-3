@@ -1,0 +1,19 @@
+{
+  "name": "flash-loan-arbitrage-bot",
+  "version": "1.0.0",
+  "description": "Expert Aave V3 Flash Loan Arbitrage Template",
+  "main": "FlashLoanArbitrage.sol",
+  "dependencies": {
+    "@aave/core-v3": "^1.17.2",
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "keywords": [
+    "flashloan",
+    "arbitrage",
+    "aave",
+    "defi",
+    "solidity"
+  ],
+  "author": "Nazrul",
+  "license": "MIT"
+}
